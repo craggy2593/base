@@ -172,6 +172,9 @@ const String hexadecimal = '0123456789ABCDEF';
 /// Same as [hexadecimal] numeral system
 const String base16 = hexadecimal;
 
+/// Base26 numeral system
+const String base26 = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+
 /// Base32 numeral system
 const String base32 = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ234567';
 
